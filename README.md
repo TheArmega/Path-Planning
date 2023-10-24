@@ -7,7 +7,7 @@ README de la práctica
 
 ## Authors
 
-- [Jaime Mas Santillán](https://www.github.com/TheArmega)
+- [Jaime Mas Santillán](https://www.github.com/TheArmega/Path-Planning)
 
 
 

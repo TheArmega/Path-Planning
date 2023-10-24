@@ -326,5 +326,5 @@ def A_star(node, goalParentId):
 
 - YouTube
 BFS Map 3
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Eo3DOSZbhMQ/0.jpg)](https://www.youtube.com/watch?v=Eo3DOSZbhMQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eo3DOSZbhMQ?si=4bdtifxZV5j5fwxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

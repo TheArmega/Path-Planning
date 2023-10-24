@@ -327,3 +327,20 @@ def A_star(node, goalParentId):
 ## BFS Map 3 Link
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Eo3DOSZbhMQ/0.jpg)](https://www.youtube.com/watch?v=Eo3DOSZbhMQ)
 
+## Greedy Map 3 Link
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IB7fMg5LttY/0.jpg)](https://www.youtube.com/watch?v=IB7fMg5LttY)
+
+## A* Map 3 Link
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PlwIc8b-MsI/0.jpg)](https://www.youtube.com/watch?v=PlwIc8b-MsI)
+
+## Greedy Map 11 Link
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lSWyvXAXGVs/0.jpg)](https://www.youtube.com/watch?v=lSWyvXAXGVs)
+
+## A* Map 11 Link
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Vy7GfKM7RA8/0.jpg)](https://www.youtube.com/watch?v=Vy7GfKM7RA8)
+
+## Greedy Shrek Link
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pT8GpTfQ9pc/0.jpg)](https://www.youtube.com/watch?v=pT8GpTfQ9pc)
+
+## A* Shrek Link
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/26_Z7DNAvNI/0.jpg)](https://www.youtube.com/watch?v=26_Z7DNAvNI)

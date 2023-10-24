@@ -30,6 +30,11 @@ Nós
 
 # # Initial values are hard-coded (A nivel mapa)
 
+######################################################################
+#                           IMPORTANTE                               #
+#                      CAMBIAR RUTA DEL MAPA                         #
+######################################################################
+
 #FILE_NAME = "/usr/local/share/master-ipr/map1/map1.csv" # Linux-style absolute path
 #FILE_NAME = "C:\\Users\\USER_NAME\\Downloads\\master-ipr\\map1\\map1.csv" # Windows-style absolute path, note the `\\` and edit `USER_NAME`
 #FILE_NAME = "../../../../map1/map1.csv" # Linux-style relative path

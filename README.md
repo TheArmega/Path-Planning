@@ -324,7 +324,6 @@ def A_star(node, goalParentId):
 - Nuevo mapa
 <img width="354" alt="Screenshot 2023-10-24 at 18 18 23" src="https://github.com/TheArmega/Path-Planning/assets/38068010/7914f513-b22e-4391-88c3-d3ce1832a241">
 
-- YouTube
-BFS Map 3
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eo3DOSZbhMQ?si=4bdtifxZV5j5fwxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## BFS Map 3 Link
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Eo3DOSZbhMQ/0.jpg)](https://www.youtube.com/watch?v=Eo3DOSZbhMQ)
 
